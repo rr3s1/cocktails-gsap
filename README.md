@@ -27,17 +27,7 @@
 5. 🔗 [Assets](#links)
 6. 🚀 [More](#more)
 
----
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos).
-
-If you prefer visual learning, this is the perfect resource for you. Follow the tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-[![Watch the video](https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d)](https://www.youtube.com/watch?v=AW1yfBKRMKc)
-
----
 
 ## 🤖 Introduction
 
@@ -124,6 +114,19 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 All assets and snippets are included in the **[Video Kit](https://jsm.dev/cocktail-kit)**:
 
 [![Download Video Kit](public/readme/videokit.png)](https://jsm.dev/cocktail-kit)
+
+
+---
+
+## 🚨 Tutorial
+
+This repository contains the code corresponding to an in-depth tutorial available on  YouTube channel, [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos).
+
+If you prefer visual learning, this is the perfect resource for you. Follow the tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+
+[![Watch the video](https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d)](https://www.youtube.com/watch?v=AW1yfBKRMKc)
+
+---
 
 ---
 
